@@ -1,0 +1,46 @@
+body {
+    background-color: aquamarine;
+}
+
+h1 {
+    text-align: center;
+    font-family: "assistant";
+    font-size: 5rem;
+    color: darkslategrey;
+    text-shadow: 4px 3px rgb(255, 255, 255)   ;
+}
+
+div {
+    text-align: center;
+}
+
+#button1 {
+    display: inline-block;
+    font-size: 2rem;
+    background-color: rgb(235, 255, 52);
+    padding: 0.46em 1.6em;
+    border:0.1em solid #000000;
+    margin-bottom: 50px;
+    margin-top: -20px;
+    border-radius: 1.2em;
+    box-sizing: border-box;
+    text-decoration:none;
+    font-family:'assistant';
+    font-weight:300;
+    color:#000000;
+    transition: all 0.15s;
+}
+
+#button1:hover {
+    color:rgb(235, 255, 52);
+    border-color:rgb(235, 255, 52);
+    background-color: black;
+}
+
+#img {
+    text-align: center;
+}
+
+img {
+    max-width: 50%;
+}
